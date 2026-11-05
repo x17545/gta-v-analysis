@@ -471,6 +471,7 @@ python bonus_forecast.py
 | 파일 | 설명 |
 |---|---|
 | `README.md` | 프로젝트 소개 및 실행 안내 |
+| `report.md` | 프로젝트 분석 보고서 |
 | `analysis.py` | Q1~Q3 필수 분석 |
 | `bonus_timeseries.py` | 추세·계절성·잔차 분해 |
 | `bonus_forecast.py` | SARIMA 30일 예측 |
